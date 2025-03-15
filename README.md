@@ -26,7 +26,7 @@ This is a repository serves as a portfolio of my data analytics projects, showca
   Excel
   - [Fashion Retail Sales Analysis](#fashion-retail-sales-analysis)
  
-- [Education](education)
+- [Education](#education)
     
 - [Certifications](#certifications)
 
