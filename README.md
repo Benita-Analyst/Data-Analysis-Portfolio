@@ -13,24 +13,24 @@ My CV in [pdf.](pdf.)
 This is a repository serves as a portfolio of my data analytics projects, showcasing my skills and progress as I continue to learn and grow in the field.
 
 ## Table of content
-- [About](About)
+- [About](#about)
   
-- [Portfolio Project](Portfolio-Project)
+- [Portfolio Project](#portfolio-project)
  
   Python
-  - [WHO COVID 19 cases](WHO-COVID-19-cases)
+  - [WHO COVID 19 cases](who-covid-19-cases)
     
   PowerBI
-  - [Superstore Analysis](Superstore-Analysis)
+  - [Superstore Analysis](superstore-analysis)
 
   Excel
-  - [Fashion Retail Sales Analysis](Fashion-Retail-Sales-Analysis)
+  - [Fashion Retail Sales Analysis](fashion-retail-sales-analysis)
  
-- [Education](Education)
+- [Education](education)
     
-- [Certifications](Certifications)
+- [Certifications](certifications)
 
-- [Contacts](Contacts)
+- [Contacts](contacts)
 
 ## Portfolio Project
 
