@@ -49,6 +49,7 @@ Results: The analysis involved breaking down the data by regions and countries t
 ### Superstore Analysis
 
 Objective: This data analysis aims to provide insights into the sales performance, customer behaviour and product popularity of a superstore over the past year.
+
 Description: The dataset has 5899 rows and 19 columns. It contains detailed information about sales transactions, customer name, customer ID, segments, categories, sub-categories, cities, states, ship mode, order date etc.
 
 Skills: Data cleaning, data analysis and visualization
@@ -60,6 +61,7 @@ Results: The analysis of the superstore provided valuable insight into the overa
 ### Fashion Retail Sales Analysis
 
 Objective: this project is to analyze the fashion retail sales dataset to gain insights into customer purchasing behaviour, payment preferences, and overall sales trends.
+
 Description: The dataset has 3400 rows and 6 columns, it contains information about customer reference ID, Item purchased, purchase amount(USD), date of purchase, review rating and payment method.
 
 Skills: Data cleaning, data analysis, data visualization
