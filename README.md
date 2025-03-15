@@ -8,8 +8,6 @@ Throughout my course, I developed a strong proficiency in working with complex d
 
 Outside of my professional responsibilities, I am passionate about staying up-to-date with the latest data analysis tools and methodologies, and I actively seek out opportunities to broaden my expertise. I thrive in collaborative and independent environments, fueled by the excitement of uncovering hidden insights and the fulfillment of leveraging data to tackle intricate challenges.
 
-My CV ![](benita_edwards_cv.pdf)
-
 This is a repository serves as a portfolio of my data analytics projects, showcasing my skills and progress as I continue to learn and grow in the field.
 
 ## Table of content
@@ -83,7 +81,7 @@ Results: The analysis provided valuable insights into customer purchasing behavi
 
 ### Contacts
 
-- Linkedln: [@benitaedwards](@benitaedwards)
+- Linkedln: https://www.linkedin.com/in/benita-edwards-86185b131?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 - Email: benitaedwards35@gmail.com, Benita.edwards25@gmail.com
 
