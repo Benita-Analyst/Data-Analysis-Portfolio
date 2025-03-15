@@ -8,7 +8,7 @@ Throughout my course, I developed a strong proficiency in working with complex d
 
 Outside of my professional responsibilities, I am passionate about staying up-to-date with the latest data analysis tools and methodologies, and I actively seek out opportunities to broaden my expertise. I thrive in collaborative and independent environments, fueled by the excitement of uncovering hidden insights and the fulfillment of leveraging data to tackle intricate challenges.
 
-My CV in [Pdf](pdf)
+My CV [Benita Edwards Cv.pdf](benita-edwards-cv.pdf)
 
 This is a repository serves as a portfolio of my data analytics projects, showcasing my skills and progress as I continue to learn and grow in the field.
 
