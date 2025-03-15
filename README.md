@@ -38,7 +38,7 @@ This section analyzes my data analytics projects describing the techniques used 
 
 ### WHO COVID 19 cases
 
-Code: [WHO COVID 19 cases.ipynb](WHO-COVID-19-cases.ipynb)
+Code: ["C:\Users\hp\Desktop\python\WHO COVID 19 cases.ipynb"]
 
 Objective : To perform a data analysis on COVID-19 dataset provided by World Health Organizations(WHO) to explore trends, insights and regional impacts.
 
