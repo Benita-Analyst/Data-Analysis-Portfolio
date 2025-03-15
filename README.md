@@ -8,7 +8,7 @@ Throughout my course, I developed a strong proficiency in working with complex d
 
 Outside of my professional responsibilities, I am passionate about staying up-to-date with the latest data analysis tools and methodologies, and I actively seek out opportunities to broaden my expertise. I thrive in collaborative and independent environments, fueled by the excitement of uncovering hidden insights and the fulfillment of leveraging data to tackle intricate challenges.
 
-My CV in [pdf.](pdf.)
+My CV in [Pdf](pdf)
 
 This is a repository serves as a portfolio of my data analytics projects, showcasing my skills and progress as I continue to learn and grow in the field.
 
@@ -18,25 +18,25 @@ This is a repository serves as a portfolio of my data analytics projects, showca
 - [Portfolio Project](#portfolio-project)
  
   Python
-  - [WHO COVID 19 cases](who-covid-19-cases)
+  - [WHO COVID 19 cases](#who-covid-19-cases)
     
   PowerBI
-  - [Superstore Analysis](superstore-analysis)
+  - [Superstore Analysis](#superstore-analysis)
 
   Excel
-  - [Fashion Retail Sales Analysis](fashion-retail-sales-analysis)
+  - [Fashion Retail Sales Analysis](#fashion-retail-sales-analysis)
  
 - [Education](education)
     
-- [Certifications](certifications)
+- [Certifications](#certifications)
 
-- [Contacts](contacts)
+- [Contacts](#contacts)
 
 ## Portfolio Project
 
 This section analyzes my data analytics projects describing the techniques used to solve cases.
 
-WHO COVID 19 cases
+### WHO COVID 19 cases
 
 Code: [WHO COVID 19 cases.ipynb](WHO-COVID-19-cases.ipynb)
 
@@ -50,7 +50,7 @@ Technology: Python, Pandas, Matplotlib pyplot, seaborn
 
 Results: The analysis involved breaking down the data by regions and countries to understand localized trends and responses, The visualizations aid in understanding the pandemic's impact and how it evolved.
 
-Superstore Analysis
+### Superstore Analysis
 
 Code: [Superstore Analysis.pbix](Superstore-Analysis.pbix)
 
@@ -63,7 +63,7 @@ Technology: PowerBI, power query, dax formular
 
 Results: The analysis of the superstore provided valuable insight into the overall sales performance, customer behavior and product popularity.
 
-Fashion Retail Sales Analysis
+### Fashion Retail Sales Analysis
 
 Code: [Fashion Retail Sales Analysis.xlsx](Fashion-Retail-Sales-Analysis.xlsx)
 
@@ -76,17 +76,17 @@ Technology: Excel, power query, pivot table, pivot charts
 
 Results: The analysis provided valuable insights into customer purchasing behaviour, payment preferences and sales trends.
 
-Education
+### Education
 
 - University of Abuja: Bachelor of science-Bsc, Political Science , 2012-2016
   
-Certifications
+### Certifications
 
 - [Codelab Educare Data Analysis Certification](Codelab-Educare-Data-Analysis-Certification) (Jan 2025)
 
 - [ Deloitte Data Analytics Job Simulation Certification](Deloitte-Data-Analytics-Job-Simulation-Certificate) ( Feb 2025)
 
-Contacts
+### Contacts
 
 - Linkedln: [@benitaedwards](@benitaedwards)
 
