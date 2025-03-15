@@ -21,10 +21,10 @@ This is a repository serves as a portfolio of my data analytics projects, showca
   - [WHO COVID 19 cases](WHO-COVID-19-cases)
     
   PowerBI
-  - [Superstore sales analysis](Superstore-sales-analysis)
+  - [Superstore Analysis](Superstore-Analysis)
 
   Excel
-  - [Fashion retail store analysis](Fashion-retail-store-analysis)
+  - [Fashion Retail Sales Analysis](Fashion-Retail-Sales-Analysis)
  
 - [Education](Education)
     
@@ -50,9 +50,9 @@ Technology: Python, Pandas, Matplotlib pyplot, seaborn
 
 Results: The analysis involved breaking down the data by regions and countries to understand localized trends and responses, The visualizations aid in understanding the pandemic's impact and how it evolved.
 
-Superstore sales Analysis
+Superstore Analysis
 
-Code:
+Code: [Superstore Analysis.pbix](Superstore-Analysis.pbix)
 
 Objective: This data analysis aims to provide insights into the sales performance, customer behaviour and product popularity of a superstore over the past year.
 Description: The dataset has 5899 rows and 19 columns. It contains detailed information about sales transactions, customer name, customer ID, segments, categories, sub-categories, cities, states, ship mode, order date etc.
@@ -63,9 +63,9 @@ Technology: PowerBI, power query, dax formular
 
 Results: The analysis of the superstore provided valuable insight into the overall sales performance, customer behavior and product popularity.
 
-Fashion Retail Store Analysis
+Fashion Retail Sales Analysis
 
-Code:
+Code: [Fashion Retail Sales Analysis.xlsx](Fashion-Retail-Sales-Analysis.xlsx)
 
 Objective: this project is to analyze the fashion retail sales dataset to gain insights into customer purchasing behaviour, payment preferences, and overall sales trends.
 Description: The dataset has 3400 rows and 6 columns, it contains information about customer reference ID, Item purchased, purchase amount(USD), date of purchase, review rating and payment method.
@@ -88,9 +88,9 @@ Certifications
 
 Contacts
 
--Linkedln: [@benitaedwards](@benitaedwards)
+- Linkedln: [@benitaedwards](@benitaedwards)
 
--Email: benitaedwards35@gmail.com, Benita.edwards25@gmail.com
+- Email: benitaedwards35@gmail.com, Benita.edwards25@gmail.com
 
 
 
